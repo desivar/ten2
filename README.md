@@ -91,9 +91,4 @@ All API endpoints are prefixed with `/api`.
 
 ---
 
-### How to use this README:
 
-1.  **Copy** the entire text above.
-2.  **Create a file** named `README.md` in the root of your `C:\Users\jilli\tennis-api` project.
-3.  **Paste** the copied text into that `README.md` file.
-4.  **Replace the placeholder text** like `[LINK_TO_YOUR_GITHUB_REPO_HERE]`, `[LINK_TO_YOUR_RENDER_DEMO_HERE]`, and `path/to/your/project-screenshot.png` with your actual links and image path.
