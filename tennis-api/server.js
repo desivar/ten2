@@ -1,8 +1,9 @@
 const express = require('express');
-const connectDB = require('./config/database');
-const playerRoutes = require('./routes/playerRoutes');
-const tournamentRoutes = require('./routes/tournamentRoutes');
-const setupSwagger = require('./swagger');
+// Corrected paths to point to files inside the 'src' directory
+const connectDB = require('./src/config/database');
+const playerRoutes = require('./src/routes/playerRoutes');
+const tournamentRoutes = require('./src/routes/tournamentRoutes');
+const setupSwagger = require('./src/swagger'); // This one is correct as swagger.js is next to server.js
 
 const app = express();
 const PORT = process.env.PORT || 5500;
