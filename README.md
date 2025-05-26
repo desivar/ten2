@@ -80,7 +80,7 @@ All API endpoints are prefixed with `/api`.
 
 ![Project Screenshot Placeholder](https://github.com/desivar/ten2/blob/main/assets/apiplayers.png)
 
-*(**Instructions**: Replace `path/to/your/project-screenshot.png` with the actual path or URL to an image of your Swagger UI or Postman testing the API. You can take a screenshot of your working Swagger UI page.)*
+
 
 ## Links
 
