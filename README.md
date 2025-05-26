@@ -85,9 +85,9 @@ All API endpoints are prefixed with `/api`.
 ## Links
 
 * **Live Demo (on Render):** [LINK_TO_YOUR_RENDER_DEMO_HERE]
-    *(**Instructions**: Once you deploy your project to Render, paste the live URL here.)*
-* **GitHub Repository (Source Code):** [LINK_TO_YOUR_GITHUB_REPO_HERE]
-    *(**Instructions**: Replace this with the actual URL to your GitHub repository.)*
+    
+* **GitHub Repository (Source Code):** [https://github.com/desivar/ten2/tree/main]
+    
 
 ---
 
