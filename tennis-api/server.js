@@ -1,9 +1,8 @@
-const express = require('express');
-// Corrected paths to point to files inside the 'src' directory
+// In C:\Users\jilli\ten2\ten2\tennis-api\server.js
 const connectDB = require('./src/config/database');
 const playerRoutes = require('./src/routes/playerRoutes');
 const tournamentRoutes = require('./src/routes/tournamentRoutes');
-const setupSwagger = require('./src/swagger'); // This one is correct as swagger.js is next to server.js
+const setupSwagger = require('./swagger'); // swagger.js is also at the root
 
 const app = express();
 const PORT = process.env.PORT || 5500;
