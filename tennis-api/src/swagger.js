@@ -1,5 +1,7 @@
 const swaggerJsDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
+console.log("Swagger.js is running!");
+
 
 const swaggerOptions = {
     swaggerDefinition: {
@@ -11,7 +13,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: 'http://localhost:3000',
+                url: 'http://localhost:5500',
             },
         ],
     },
