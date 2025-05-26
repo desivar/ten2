@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Wimbledon",
+        "location": "London, England",
+        "date": "2023-06-27",
+        "surface": "Grass",
+        "prizeMoney": 2000000,
+        "players": []
+    },
+    {
+        "name": "US Open",
+        "location": "New York, USA",
+        "date": "2023-08-28",
+        "surface": "Hard",
+        "prizeMoney": 2500000,
+        "players": []
+    },
+    {
+        "name": "French Open",
+        "location": "Paris, France",
+        "date": "2023-05-22",
+        "surface": "Clay",
+        "prizeMoney": 2200000,
+        "players": []
+    },
+    {
+        "name": "Australian Open",
+        "location": "Melbourne, Australia",
+        "date": "2023-01-16",
+        "surface": "Hard",
+        "prizeMoney": 3000000,
+        "players": []
+    }
+]

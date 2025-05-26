@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Roger Federer",
+        "age": 40,
+        "ranking": 1,
+        "country": "Switzerland",
+        "titles": 103,
+        "matchesPlayed": 1500,
+        "winPercentage": 82.5
+    },
+    {
+        "name": "Rafael Nadal",
+        "age": 36,
+        "ranking": 2,
+        "country": "Spain",
+        "titles": 88,
+        "matchesPlayed": 1200,
+        "winPercentage": 83.2
+    },
+    {
+        "name": "Novak Djokovic",
+        "age": 35,
+        "ranking": 3,
+        "country": "Serbia",
+        "titles": 85,
+        "matchesPlayed": 1300,
+        "winPercentage": 85.0
+    },
+    {
+        "name": "Serena Williams",
+        "age": 40,
+        "ranking": 10,
+        "country": "USA",
+        "titles": 73,
+        "matchesPlayed": 1000,
+        "winPercentage": 85.0
+    },
+    {
+        "name": "Naomi Osaka",
+        "age": 24,
+        "ranking": 5,
+        "country": "Japan",
+        "titles": 4,
+        "matchesPlayed": 200,
+        "winPercentage": 75.0
+    }
+]
