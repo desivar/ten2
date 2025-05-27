@@ -9,7 +9,7 @@ const doc = {
     description: 'API for managing tennis players and tournaments',
   },
   host: 'localhost:5500', // Your server host and port
-  basePath: '/api', // The base path for all your API routes (e.g., /api/players)
+  basePath: '/', // The base path for all your API routes (e.g., /api/players)
   schemes: ['http'],
   consumes: ['application/json'],
   produces: ['application/json'],
